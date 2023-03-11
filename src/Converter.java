@@ -1,5 +1,3 @@
-import javax.swing.JOptionPane;
-
 import menu.Menu;
 
 public class Converter {
