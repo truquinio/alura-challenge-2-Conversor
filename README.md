@@ -31,7 +31,6 @@
 
        - Convierte de Celsius a Fahrenheit
        - Convierte de Celsius a Kelvin
-       
        - Convierte de Fahrenheit a Celsius
        - Convierte de Fahrenheit a Kelvin
        - Convierte de Kelvin a Celsius
@@ -42,7 +41,6 @@
        - Convierte de segundos a minutos
        - Convierte de minutos a horas
        - Convierte de horas a días
-       
        - Convierte de minuto a segundo
        - Convierte de horas a minutos
        - Convierte de días a horas
